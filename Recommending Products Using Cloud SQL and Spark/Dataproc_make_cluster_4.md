@@ -1,7 +1,7 @@
 echo "Authorizing Cloud Dataproc to connect with Cloud SQL"
 CLUSTER=rentals
 CLOUDSQL=rentals
-ZONE=us-central1-a
+ZONE=us-central1-b
 NWORKERS=2
 
 machines="$CLUSTER-m"
