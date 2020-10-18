@@ -1,0 +1,6 @@
+
+Created a fully-managed Cloud SQL instance for rentals
+Created tables and explored the schema with SQL
+Ingested data from CSVs
+Edited and ran a Spark ML job on Dataproc
+Viewed prediction results
