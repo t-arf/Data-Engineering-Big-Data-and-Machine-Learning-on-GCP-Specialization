@@ -1,0 +1,6 @@
+https://storage.cloud.google.com/qwiklabs-gcp-04-7941af64e0d4-vcm/data.csv
+
+gsutil ls gs://$DEVSHELL_PROJECT_ID-vcm/*
+
+Highlight and copy the location of your data file to your clipboard which will look similar to:
+gs://qwiklabs-gcp-04-7941af64e0d/data.csv
