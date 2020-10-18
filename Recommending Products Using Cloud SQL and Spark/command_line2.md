@@ -1,3 +1,6 @@
+
+gcloud sql connect rentals --user=root --quiet
+
 echo "Creating bucket: gs://$DEVSHELL_PROJECT_ID"
 gsutil mb gs://$DEVSHELL_PROJECT_ID
 
