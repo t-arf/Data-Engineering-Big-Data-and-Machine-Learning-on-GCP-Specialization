@@ -23,3 +23,4 @@ done
 
 echo "Authorizing [$ips] to access cloudsql=$CLOUDSQL"
 gcloud sql instances patch $CLOUDSQL --authorized-networks $ips
+
