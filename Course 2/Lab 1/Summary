@@ -1,0 +1,3 @@
+Summary
+In this lab you did ad-hoc queries on two datasets. You were able to query the data without setting up any clusters, creating any indexes, etc. 
+You were also able to mash up the two datasets and get some interesting insights.
