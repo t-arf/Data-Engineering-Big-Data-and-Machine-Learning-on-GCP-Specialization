@@ -1,0 +1,41 @@
+Building a Data Lake
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+Which statement best describes a data lake?
+
+1 / 1 point
+
+The place where you capure every aspect of your business operations. Data is stored in its natural, raw format. Correct
+
+
+Data storage intended for analytics.
+
+
+Storage optimized for high-throughput writes.
+
+
+Storage for current/historical data intened for reporting.
+
+Correct
+2.
+Question 2
+Which of the following statements on Cloud Storage are true?
+
+1 / 1 point
+
+Cloud Storage simulates a file system
+
+Correct
+
+Cloud Storage allows you to set retention policies on all objects in a bucket
+
+Correct
+
+Cloud Storage implements both Cloud IAM policy and Access Control Lists
+
+Correct
+
+Data in Cloud Storage is not encrypted
+
