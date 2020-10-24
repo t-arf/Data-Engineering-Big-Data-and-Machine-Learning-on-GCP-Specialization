@@ -1,1 +1,25 @@
 
+Overview
+In this lab you will learn how to how to migrate Apache Spark code to Cloud Dataproc. You will follow a sequence of steps progressively moving more of the job components over to GCP services:
+
+Run original Spark code on Cloud Dataproc (Lift and Shift)
+
+Replace HDFS with Google Cloud Storage ( cloud-native)
+
+Automate everything so it runs on job-specific clusters ( cloud-optimized)
+
+Objectives
+In this lab you will learn how to:
+
+Migrate existing Spark jobs to Cloud Dataproc
+
+Modify Spark jobs to use Cloud Storage instead of HDFS
+
+Optimize Spark jobs to run on Job specific clusters
+
+What will you use?
+Cloud Dataproc
+
+Apache Spark
+
+Scenario
