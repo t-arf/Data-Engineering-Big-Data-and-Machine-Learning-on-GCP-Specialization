@@ -1,0 +1,24 @@
+Airflow and core concepts
+While waiting for your Composer environment to get created, review some terms that are used with Airflow.
+
+Airflow is a platform to programmatically author, schedule and monitor workflows.
+
+Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array
+of workers while following the specified dependencies.
+
+Core concepts
+DAG
+
+A Directed Acyclic Graph is a collection of all the tasks you want to run, organized in a way that reflects their relationships and dependencies.
+
+Operator
+
+The description of a single task, it is usually atomic. For example, the BashOperator is used to execute bash command.
+
+Task
+
+A parameterised instance of an Operator; a node in the DAG.
+
+Task Instance
+
+A specific run of a task; characterized as: a DAG, a Task, and a point in time. It has an indicative state: running, success, failed, skipped, ...
