@@ -1,3 +1,4 @@
+Note: With the above load job, you are specifying that this subset is to be appended to the existing 2018trips table that you created above.
 bq load \
 --source_format=CSV \
 --autodetect \
