@@ -1,0 +1,18 @@
+Overview
+This tutorial shows you how to use the Wrangler and Data Pipeline features in Cloud Data Fusion to clean, transform, and process taxi trip data for further analysis.
+
+What you learn
+In this lab, you will:
+
+Connect Cloud Data Fusion to a couple of data sources
+
+Apply basic transformations
+
+Join two data sources
+
+Write data to a sink
+
+Introduction
+Often times, data needs go through a number of pre-processing steps before analysts can leverage the data to glean insights. For example, data types may need to be adjusted, anomalies removed, and vague identifiers may need to be converted to more meaningful entries. Cloud Data Fusion is a service for efficiently building ETL/ELT data pipelines. Cloud Data Fusion uses Cloud Dataproc cluster to perform all transforms in the pipeline.
+
+The use of Cloud Data Fusion will be exemplified in this tutorial by using a subset of the NYC TLC Taxi Trips dataset on BigQuery.
