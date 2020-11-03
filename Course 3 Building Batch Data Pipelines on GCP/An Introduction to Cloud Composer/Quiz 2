@@ -1,0 +1,37 @@
+Data Processing with Cloud Dataflow
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+Which of the following statements are true?
+
+(Select all 2 correct responses)
+
+1 / 1 point
+
+Dataflow executes Apache Beam pipelines
+
+Correct
+
+Side-inputs in Dataflow are a way to export data from one pipeline to share with another pipeline
+
+
+Map operations in a MapReduce can be performed by Combine transforms in Dataflow
+
+
+Dataflow transforms support both batch and streaming pipelines
+
+Correct
+2.
+Question 2
+Match each of the Dataflow terms with what they do in the life of a dataflow job:
+
+Term	Definition
+__ 1. Transform	A. Output endpoint for your pipeline
+__ 2. PCollection	B. A data processing operation or step in your pipeline
+__ 3. Sink	C. A set of data in your pipeline
+1 / 1 point
+
+B
+C
+A
